@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">YourAppName</string>
+
+    <string-array name="spinnerVyber">
+        <item>První</item>
+        <item>Druhá</item>
+        <item>Třetí</item>
+        <item>Čtvrtá</item>
+    </string-array>
+
+    <string-array name="operators">
+        <item>=</item>
+        <item>&lt;</item> <!-- This is '<' -->
+        <item>&gt;</item> <!-- This is '>' -->
+        <item>≤</item> <!-- This one is fine as it is -->
+        <item>≥</item> <!-- This one is fine as it is -->
+    </string-array>
+
+
+</resources>
